@@ -1,5 +1,5 @@
 # CS170 : Artifical Intelligence
-## Project 1 : Eight-Puzzle
+## Project 1 : Eight-Puzzle Solver
 ### by Kevin Ferrer
 
 
